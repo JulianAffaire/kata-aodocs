@@ -1,8 +1,1 @@
-{
-  "name" : "Hulk",
-  "realname" : "Bruce Banner",
-  "author" : "Marvel",
-  "description" : "Human / Radiation",
-  "summary" : "Nuclear physicist, Agent of S.H.I.E.L.D.",
-  "date" : "1962-05-01"
-}
+{"name":"Hulk","realname":"BruceBanner","author":"Marvel","description":"Human/Radiation","summary":"Nuclearphysicist,AgentofS.H.I.E.L.D.","date":"1962-05-01"}
