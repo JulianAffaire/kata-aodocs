@@ -1,0 +1,59 @@
+[
+  {
+	"name" : "Spiderman",
+     "realname" : "Peter Parker",
+	"author" : "Marvel",
+	"description" : "Photographer",
+	"summary" : "Member of the Avengers, formerly member of Outlaws, alternate Fantastic Four",
+	"date" : "2022-03-22"
+  },
+  {
+	"name" : "Batman",
+	"realname" : "Bruce Wayne",
+     "author" : "DC",
+	"description" : "Businessman",
+	"summary" : "Batman Family, Batman Incorporated, Justice League, Outsiders, Wayne Enterprises, Club of Heroes, formerly White Lantern Corps, Sinestro Corps",
+	"date" : "2022-03-22"
+  },
+  {
+	"name" : "Songoku",
+	"realname" : "Kakarot",
+    "author" : "Akira Toriyama",
+	"description" : "Super sayan",
+	"summary" : "Son Goku is a fictional character and the star of the Dragon Ball manga series created by Akira Toriyama. Serving as the main protagonist of the series",
+	"date" : "1984-12-03"
+  },
+  {
+	"name" : "Songohan",
+	"realname" : "Gohan",
+    "author" : "Akira Toriyama",
+	"parent1": "Sangoku",
+	"description" : "Super sayan, son of Sangoku",
+	"summary" : "Son Gohan is a fictional character and the star of the Dragon Ball manga series created by Akira Toriyama. Serving as the son of the main protagonist of the series",
+	"date" : "1984-12-03"
+  },
+  {
+	"name" : "Seiya",
+	"realname" : "Pegasus Seiya",
+    "author" : "Masami Kurumada",
+	"description" : "Saint Seiya",
+	"summary" : "Seiya, is a fictional character in the Saint Seiya manga series created by Masami Kurumada. He is the eponymous protagonist who makes his debut in the first chapter The Saints of Athenas",
+	"date" : "1986-01-01"
+  },
+  {
+	"name" : "Thor",
+	"realname" : "Thor Odinson",
+    "author" : "Marvel",
+	"description" : "Asgardian",
+	"summary" : "King of Asgard; formerly EMS Technician; Physician",
+	"date" : "1962-08-01"
+  },
+  {
+	"name" : "Hulk",
+	"realname" : "Bruce Banner",
+    "author" : "Marvel",
+	"description" : "Human / Radiation",
+	"summary" : "Nuclear physicist, Agent of S.H.I.E.L.D.",
+	"date" : "1962-05-01"
+  }
+]
